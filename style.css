@@ -1,0 +1,11 @@
+.login--hide {
+    display: none;
+}
+
+.menu {
+    display: none;
+}
+
+.menu--activate {
+    display: block;
+}
